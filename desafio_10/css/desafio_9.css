@@ -1,0 +1,10 @@
+.container{
+    text-align: center;     
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    
+    background-color: aqua;
+}
