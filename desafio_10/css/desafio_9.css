@@ -1,0 +1,6 @@
+.contenedor{
+    display:flex;
+    text-align: center;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%,20rem), 1fr));
+}
